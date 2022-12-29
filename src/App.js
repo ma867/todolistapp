@@ -136,7 +136,7 @@ function App() {
                 {todo.title} </li>
                 )
             })
-            ):'nah bitch'}
+            ):'nothing here'}
                 </div>
       
             </div>   
